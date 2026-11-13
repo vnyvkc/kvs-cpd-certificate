@@ -179,6 +179,14 @@ Small coloured labels on the cards point out gaps:
 
 Open the **3. Page Setup** tab.
 
+### Certificate Heading
+The two heading lines at the top of the certificate can be changed, for example to name your Regional Office or Vidyalaya.
+- **पहली पंक्ति (हिन्दी) / Line 1 (Hindi)** always prints first, and **Line 2 (English)** always prints below it.
+- Long headings shrink automatically to fit between the two emblems.
+- Leave a line empty to leave it out.
+- **Restore official heading** puts back *केन्द्रीय विद्यालय संगठन, नई दिल्ली / KENDRIYA VIDYALAYA SANGATHAN, NEW DELHI*.
+- The heading applies to every certificate. It is autosaved, and included when you use **Save Project**.
+
 ### KVS Emblem
 - The official KVS emblem is built into the studio and appears in both top corners. You don't need to do anything.
 - **Replace with another emblem image** lets you use a different image if required. **Restore the official emblem** switches back.
@@ -353,7 +361,7 @@ It opens and works on phones and tablets, but entering data and printing are muc
 The studio is tested in **Google Chrome**. Microsoft Edge uses the same engine and should behave the same. Firefox and Safari haven't been tested yet, so use Chrome or Edge for important batches.
 
 **Can I change the certificate wording or design?**
-The wording, layout and emblem follow the official KVS format and are intentionally fixed. You can change the emblem size, signature size and text position, and print on your own pre-printed forms.
+The paragraphs, layout and emblem follow the official KVS format and are intentionally fixed. You can change the **two-line heading** (Page Setup → Certificate Heading), the emblem size, the signature size and the text position, and you can print on your own pre-printed forms.
 
 **What happens to people when I delete a course?**
 Only the course and its course-only people are deleted. People in the master list stay, and an Undo button appears for 8 seconds.
